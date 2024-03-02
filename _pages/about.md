@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>3263 Computer Sciences</p>
+    <p>Computer Sciences</p>
     <p>1240 West Dayton Street</p>
     <p>Madison, WI 53706</p>
 
