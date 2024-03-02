@@ -16,6 +16,7 @@ pagination:
     after: 3 # The number of links after the current page
 ---
 
+<!---
 <div class="post">
 
 {% assign blog_name_size = site.blog_name | size %}
@@ -154,14 +155,7 @@ pagination:
           {% if tags != "" %}
           &nbsp; &middot; &nbsp;
             {% for tag in post.tags %}
-            <a href="{{ tag | slugify | prepend: '/blog/tag/' | prepend: site.baseurl}}">
-              <i class="fa-solid fa-hashtag fa-sm"></i> {{ tag }}</a> &nbsp;
-              {% endfor %}
-          {% endif %}
-
-          {% if categories != "" %}
-          &nbsp; &middot; &nbsp;
-            {% for category in post.categories %}
+            <a href="{{ tag |<! -- n post.categories %}
             <a href="{{ category | slugify | prepend: '/blog/category/' | prepend: site.baseurl}}">
               <i class="fa-solid fa-tag fa-sm"></i> {{ category }}</a> &nbsp;
               {% endfor %}
@@ -188,3 +182,4 @@ pagination:
 {% endif %}
 
 </div>
+-->
