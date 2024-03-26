@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a graduate student in the Computer Sciences Department at the University of Wisconsin-Madison. I'm broadly interested in Machine Learning on Graphs. Currently, I'm working on graph representation learning to biomolecules.
+I'm a graduate student in the Computer Sciences Department at the University of Wisconsin-Madison. I'm broadly interested in Machine Learning on Graphs. Currently, I'm working on graph representation learning for modeling biomolecules.
 
 I was previously a SWE at Qualcomm's Machine Learning group where I contributed to the [Qualcomm Neural Processing SDK](https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk). I completed my undergraduate studies at UW-Madison as well, majoring in ECE and CS.
 
