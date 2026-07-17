@@ -1,11 +1,11 @@
 metadata:
-  last_updated: '2026-06-15'
+  last_updated: '2026-07-17'
 papers:
   vWPiFEUAAAAJ:d1gkVwhDpl0C:
-    citations: 4
+    citations: 6
     title: Exploring zero-shot structure-based protein fitness prediction
     year: '2025'
   vWPiFEUAAAAJ:u-x6o8ySG0sC:
-    citations: 63
+    citations: 70
     title: Biophysics-based protein language models for protein engineering
     year: '2025'
